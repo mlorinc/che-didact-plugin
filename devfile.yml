@@ -1,0 +1,14 @@
+apiVersion: 1.0.0
+metadata:
+  generateName: didact-
+projects:
+  -
+    name: didact tutorials
+    source:
+      type: git
+      location: "https://github.com/mlorinc/didact-ext.git"
+      branch: master
+components:
+  -
+    type: chePlugin 
+    reference: "https://raw.githubusercontent.com/mlorinc/che-didact-plugin/master/plugin.yml"

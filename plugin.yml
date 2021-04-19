@@ -1,0 +1,16 @@
+apiVersion: v2
+publisher: Red Hat
+name: vscode-didact
+version: 1.0.61
+type: VS Code extension
+displayName: Bracket Pair Colorizer
+title: Bracket Pair Colorizer
+description: Bracket Pair Colorizer
+icon: https://raw.githubusercontent.com/redhat-developer/codeready-workspaces/master/dependencies/che-plugin-registry/resources/images/default.svg?sanitize=true
+repository: https://github.com/redhat-developer/vscode-didact
+category: Language
+firstPublicationDate: '2020-07-30'
+spec:                                                             
+  extensions:
+  - "https://github.com/mlorinc/che-didact-plugin/blob/master/vscode-didact-0.4.0-277.vsix?raw=true" 
+latestUpdateDate: "2020-07-30"
