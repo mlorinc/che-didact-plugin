@@ -12,5 +12,5 @@ category: Language
 firstPublicationDate: '2020-07-30'
 spec:                                                             
   extensions:
-  - "https://github.com/mlorinc/che-didact-plugin/blob/master/vscode-didact-0.4.0-277.vsix?raw=true" 
+    - "https://github.com/mlorinc/che-didact-plugin/raw/master/vscode-didact-0.4.0-277.vsix"
 latestUpdateDate: "2020-07-30"
