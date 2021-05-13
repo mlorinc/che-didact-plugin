@@ -3,7 +3,7 @@ metadata:
   generateName: didact-
 projects:
   -
-    name: didact tutorials
+    name: didact-tutorials
     source:
       type: git
       location: "https://github.com/mlorinc/didact-ext.git"
